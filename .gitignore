@@ -54,5 +54,7 @@ dkms.conf
 # STM32CubeIDE
 .metadata/
 .settings/
-debug/
-*.ld
+.laund/
+Debug/
+Release/
+
