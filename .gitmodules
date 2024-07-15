@@ -1,0 +1,3 @@
+[submodule "Drivers/shtc3"]
+	path = Drivers/shtc3
+	url = git@github.com:mauriciobarroso/shtc3.git
